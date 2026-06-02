@@ -2,7 +2,7 @@
 
 <!-- Animated Banner -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,20,12&text=Nitesh%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Designer%20•%20Developer%20•%20Problem%20Solver&descAlignY=58&descSize=20"
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:2563EB&text=Nitesh%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20beautiful%20and%20functional%20digital%20experiences&descAlignY=60&descSize=18"
   width="100%"
 />
 
