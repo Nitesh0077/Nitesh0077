@@ -1,124 +1,122 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitesh%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Designer%20%7C%20Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=200&section=header&text=NITESH%20SHARMA&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=50&desc=%3E_%20Designer.Developer.Debugger&descAlignY=70&descSize=16&descColor=00FF41" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nitesh+%F0%9F%91%8B;Full+Stack+Developer+%26+UI%2FUX+Designer;I+build+things+that+look+%26+work+great;Design+is+not+just+what+it+looks+like...;...Design+is+how+it+works+%E2%80%94+Steve+Jobs" alt="Typing SVG" />
+</div>
 
-<br/>
+```
+███╗   ██╗██╗████████╗███████╗███████╗██╗  ██╗    ███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗
+████╗  ██║██║╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+██╔██╗ ██║██║   ██║   █████╗  ███████╗███████║    ███████╗███████║███████║██████╔╝██╔████╔██║███████║
+██║╚██╗██║██║   ██║   ██╔══╝  ╚════██║██╔══██║    ╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
+██║ ╚████║██║   ██║   ███████╗███████║██║  ██║    ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+```
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://itsnitesh.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-sharma-86b520340)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nitesh0077_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0077niteshsharma@gmail.com)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+profile...;%3E+Loading+skills...+%5BDONE%5D;%3E+Full+Stack+Developer+%2B+Designer;%3E+Building+the+web%2C+one+commit+at+a+time;%3E+sudo+make+it+beautiful" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `> whoami`
 
-```python
-nitesh = {
-    "name":       "Nitesh Sharma",
-    "role":       ["Full Stack Developer", "UI/UX Designer"],
-    "location":   "India 🇮🇳",
-    "building":   "Beautiful products that users actually love",
-    "reach_me":   "0077niteshsharma@email.com"
-}
+```bash
+$ cat /etc/nitesh/profile.conf
+
+[identity]
+  name        = "Nitesh Sharma"
+  role        = ["Full Stack Developer", "UI/UX Designer"]
+  location    = "India 🇮🇳"
+  status      = "Building something epic 🚀"
+
+[skills]
+  languages   = [Python, JavaScript, TypeScript, Java, HTML, CSS]
+  frameworks  = [React, Next.js, FastAPI]
+  databases   = [MongoDB, Firebase]
+  design      = [Figma, Adobe Illustrator, Photoshop]
+  devops      = [Git, Vercel, Hostinger]
+  security    = [Burp Suite]
+  analytics   = [Google Analytics, Search Console]
+
+[config]
+  coffee      = true
+  dark_mode   = always
+  tabs_vs_spaces = "don't start this war"
+  fun_fact    = "I design before I code — always"
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### 🗄️ Databases & Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-### 🚀 DevOps & Deployment
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
-
-### 📊 Analytics & Security
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## `> ls skills/`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitesh0077&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+### ⚡ Languages
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=00FF41)
 
-<br/>
+### 🔧 Frameworks & DB
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=00FF41)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0077&theme=tokyonight&hide_border=true" width="500"/>
+### 🎨 Design Arsenal
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=00FF41)
+![Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobe-illustrator&logoColor=00FF41)
+![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobe-photoshop&logoColor=00FF41)
+
+### 🛡️ Ops & Security
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `> cat github_stats.log`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nitesh0077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitesh0077&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0077&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0077&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="500"/>
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## `> ping nitesh`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh0077&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/your-username)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/your-username)
+[![Email](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:your@email.com)
+
 </div>
 
 ---
 
-## 💡 A Little More About Me
+<div align="center">
 
 ```
-🎯  Goal         → Build products that solve real problems
-🌱  Learning     → Always exploring new tech & design trends
-🤝  Open to      → Freelance, Collabs & Open Source
-⚡  Edge         → I both design AND build — end to end
-🎮  Off Hours    → Music, Exploring UI trends, Coffee runs
+> session_end.sh
+> "The best code is no code. The second best is clean code."
+> Connection closed by Nitesh Sharma. ██████████ [100%]
 ```
 
----
-
-<div align="center">
-
-### 💬 Let's build something amazing together!
-
-[![Portfolio](https://img.shields.io/badge/See%20My%20Work-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://itsnitesh.vercel.app)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:000000&height=60&section=footer&text=%3E_&fontSize=20&fontColor=00FF41" width="100%"/>
 
 </div>
