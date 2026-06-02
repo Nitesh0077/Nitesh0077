@@ -1,23 +1,18 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitesh%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Designer%20%7C%20Developer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Nitesh+%F0%9F%91%8B+Welcome+to+my+profile;I+design+with+empathy+%26+build+with+precision;From+Figma+wireframe+%E2%86%92+Production+%E2%80%94+all+me;%22Design+is+how+it+works%22+%E2%80%94+Steve+Jobs;Currently+crafting+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nitesh+%F0%9F%91%8B;Full+Stack+Developer+%26+UI%2FUX+Designer;I+build+things+that+look+%26+work+great;Design+is+not+just+what+it+looks+like...;...Design+is+how+it+works+%E2%80%94+Steve+Jobs" alt="Typing SVG" />
 
 <br/>
 
-<!-- Socials -->
+<!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://itsnitesh.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-sharma-86b520340)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nitesh0077_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nitesh0077_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0077niteshsharma@gmail.com)
-
-<br/>
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=nitesh0077&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
-![GitHub followers](https://img.shields.io/github/followers/nitesh0077?style=for-the-badge&color=58A6FF&labelColor=1a1a2e&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/nitesh0077?style=for-the-badge&color=58A6FF&labelColor=1a1a2e&label=TOTAL+STARS)
 
 </div>
 
@@ -26,40 +21,20 @@
 ## 🧠 About Me
 
 ```python
-class Nitesh:
-    name       = "Nitesh Sharma"
-    role       = ["Full Stack Developer", "UI/UX Designer"]
-    location   = "India 🇮🇳"
-    portfolio  = "https://itsnitesh.vercel.app"
-    email      = "0077niteshsharma@gmail.com"
-
-    skills     = {
-        "design"   : ["Figma", "Illustrator", "Photoshop"],
-        "frontend" : ["React", "Next.js", "TypeScript", "HTML", "CSS"],
-        "backend"  : ["Python", "FastAPI", "Java"],
-        "database" : ["MongoDB", "Firebase"],
-        "devops"   : ["Git", "Vercel", "Hostinger"],
-        "analytics": ["Google Analytics", "Search Console", "Burp Suite"],
-    }
-
-    superpower = "I skip the handoff — I design AND build, end to end"
-    currently  = "Crafting experiences that feel as good as they look 🎨"
-    open_to    = ["Freelance", "Collabs", "Open Source"]
-    fun_fact   = "I probably redesigned this README 5 times 😅"
+nitesh = {
+    "name":       "Nitesh Sharma",
+    "role":       ["Full Stack Developer", "UI/UX Designer"],
+    "location":   "India 🇮🇳",
+    "building":   "Beautiful products that users actually love",
+    "reach_me":   "0077niteshsharma@email.com"
+}
 ```
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-### 💻 Languages
+### 💻 Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,12 +44,17 @@ class Nitesh:
 
 ### ⚛️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### 🗄️ Databases
+### 🗄️ Databases & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### 🚀 DevOps & Deployment
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -83,10 +63,8 @@ class Nitesh:
 
 ### 📊 Analytics & Security
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
-</div>
 
 ---
 
@@ -94,44 +72,41 @@ class Nitesh:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitesh0077&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nitesh0077&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0077&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="520"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0077&theme=tokyonight&hide_border=true" width="500"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh0077&theme=tokyo-night&hide_border=true&area=true&custom_title=Nitesh's%20Contribution%20Graph" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nitesh0077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
 ---
 
-## 🏆 Trophies
+## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nitesh0077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh0077&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
-## 💡 Quick Facts
+## 💡 A Little More About Me
 
 ```
-🎯  Goal       →  Build products that solve real problems beautifully
-🎨  Edge       →  I design AND develop — no handoffs, no gaps
-🌱  Learning   →  Always exploring new tech & design trends
-🤝  Open to    →  Freelance · Collabs · Open Source
-⚡  Strength   →  Figma to production — fully in-house
-☕  Off Hours  →  Music · UI exploration · Coffee
+🎯  Goal         → Build products that solve real problems
+🌱  Learning     → Always exploring new tech & design trends
+🤝  Open to      → Freelance, Collabs & Open Source
+⚡  Edge         → I both design AND build — end to end
+🎮  Off Hours    → Music, Exploring UI trends, Coffee runs
 ```
 
 ---
@@ -140,12 +115,10 @@ class Nitesh:
 
 ### 💬 Let's build something amazing together!
 
-[![Visit Portfolio](https://img.shields.io/badge/🌐%20See%20My%20Work-000000?style=for-the-badge)](https://itsnitesh.vercel.app)
-&nbsp;
-[![Say Hello](https://img.shields.io/badge/✉️%20Say%20Hello-D14836?style=for-the-badge)](mailto:0077niteshsharma@gmail.com)
+[![Portfolio](https://img.shields.io/badge/See%20My%20Work-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://itsnitesh.vercel.app)
 
 <br/>
 
-<img src="./footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
