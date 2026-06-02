@@ -2,10 +2,9 @@
 
 <!-- Animated Banner -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:2563EB&text=Nitesh%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20beautiful%20and%20functional%20digital%20experiences&descAlignY=60&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Nitesh%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=UI/UX%20Designer%20•%20Frontend%20Developer%20•%20Creative%20Thinker&descAlignY=58&descSize=18"
   width="100%"
 />
-
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nitesh+%F0%9F%91%8B;Full+Stack+Developer+%26+UI%2FUX+Designer;I+build+things+that+look+%26+work+great;Design+is+not+just+what+it+looks+like...;...Design+is+how+it+works+%E2%80%94+Steve+Jobs" alt="Typing SVG" />
 
