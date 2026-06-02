@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitesh%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Designer%20%7C%20Developer%20%7C%20&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitesh%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Designer%20%7C%20Developer%20%7C%20" width="100%"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nitesh+%F0%9F%91%8B;Full+Stack+Developer+%26+UI%2FUX+Designer;I+build+things+that+look+%26+work+great;Design+is+not+just+what+it+looks+like...;...Design+is+how+it+works+%E2%80%94+Steve+Jobs" alt="Typing SVG" />
