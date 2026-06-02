@@ -1,119 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f8f4ff,100:ede9fe&height=200&section=header&text=Nitesh%20Sharma&fontSize=56&fontColor=4c1d95&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Designer%20%26%20Developer&descSize=17&descAlignY=70&descColor=7c3aed" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=22&pause=1200&color=7c3aed&center=true&vCenter=true&width=600&lines=I+design+with+empathy+%E2%9C%A8;I+develop+with+precision+%F0%9F%94%A7;I+ship+with+intention+%F0%9F%9A%80;Where+design+meets+code+%E2%80%94+that%27s+home." />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ede9fe?style=for-the-badge&logoColor=7c3aed&color=ede9fe&labelColor=ede9fe)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ddd6fe?style=for-the-badge&logo=linkedin&logoColor=7c3aed&color=ddd6fe&labelColor=ddd6fe)](https://linkedin.com/in/your-username)
-[![Instagram](https://img.shields.io/badge/Instagram-ede9fe?style=for-the-badge&logo=instagram&logoColor=7c3aed&color=ede9fe&labelColor=ede9fe)](https://instagram.com/your-username)
-[![Email](https://img.shields.io/badge/Email-ddd6fe?style=for-the-badge&logo=gmail&logoColor=7c3aed&color=ddd6fe&labelColor=ddd6fe)](mailto:your@email.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header" width="100%"/>
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## &nbsp; 👋 &nbsp; Hello, I'm Nitesh
-
-I'm a **Full Stack Designer & Developer** from **India 🇮🇳** — someone who genuinely loves both halves of the product-building process.
-
-On one hand, I think deeply about **how things should look and feel** — the spacing, the type, the motion, the emotion. On the other, I care just as much about **how things work under the hood** — the logic, the architecture, the performance.
-
-Most people pick a side. I didn't.
-
-- 🎨 &nbsp; Design-first thinker who can build everything I design
-- 🧱 &nbsp; Full Stack: React, Next.js, Python, FastAPI, MongoDB
-- ✏️ &nbsp; Design tools: Figma, Illustrator, Photoshop
-- 📐 &nbsp; I care about typography, white space & micro-interactions
-- 🌱 &nbsp; Always learning — always iterating
-- 🤝 &nbsp; Open to freelance, consulting & collaborations
-
-<br/>
-
----
-
-<br/>
-
-## &nbsp; 🎨 &nbsp; What I Work With
-
-<br/>
-
-**— Design —**
-
-![Figma](https://img.shields.io/badge/Figma-f8f4ff?style=flat-square&logo=figma&logoColor=7c3aed)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-f8f4ff?style=flat-square&logo=adobe-illustrator&logoColor=7c3aed)
-![Photoshop](https://img.shields.io/badge/Photoshop-f8f4ff?style=flat-square&logo=adobe-photoshop&logoColor=7c3aed)
-
-**— Frontend —**
-
-![React](https://img.shields.io/badge/React-f8f4ff?style=flat-square&logo=react&logoColor=7c3aed)
-![Next.js](https://img.shields.io/badge/Next.js-f8f4ff?style=flat-square&logo=next.js&logoColor=7c3aed)
-![TypeScript](https://img.shields.io/badge/TypeScript-f8f4ff?style=flat-square&logo=typescript&logoColor=7c3aed)
-![JavaScript](https://img.shields.io/badge/JavaScript-f8f4ff?style=flat-square&logo=javascript&logoColor=7c3aed)
-![HTML5](https://img.shields.io/badge/HTML5-f8f4ff?style=flat-square&logo=html5&logoColor=7c3aed)
-![CSS3](https://img.shields.io/badge/CSS3-f8f4ff?style=flat-square&logo=css3&logoColor=7c3aed)
-
-**— Backend & Database —**
-
-![Python](https://img.shields.io/badge/Python-f8f4ff?style=flat-square&logo=python&logoColor=7c3aed)
-![FastAPI](https://img.shields.io/badge/FastAPI-f8f4ff?style=flat-square&logo=fastapi&logoColor=7c3aed)
-![Java](https://img.shields.io/badge/Java-f8f4ff?style=flat-square&logo=openjdk&logoColor=7c3aed)
-![MongoDB](https://img.shields.io/badge/MongoDB-f8f4ff?style=flat-square&logo=mongodb&logoColor=7c3aed)
-![Firebase](https://img.shields.io/badge/Firebase-f8f4ff?style=flat-square&logo=firebase&logoColor=7c3aed)
-
-**— Deploy & Measure —**
-
-![Git](https://img.shields.io/badge/Git-f8f4ff?style=flat-square&logo=git&logoColor=7c3aed)
-![Vercel](https://img.shields.io/badge/Vercel-f8f4ff?style=flat-square&logo=vercel&logoColor=7c3aed)
-![Hostinger](https://img.shields.io/badge/Hostinger-f8f4ff?style=flat-square&logo=hostinger&logoColor=7c3aed)
-![Google Analytics](https://img.shields.io/badge/Analytics-f8f4ff?style=flat-square&logo=google-analytics&logoColor=7c3aed)
-![Search Console](https://img.shields.io/badge/Search_Console-f8f4ff?style=flat-square&logo=google&logoColor=7c3aed)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-f8f4ff?style=flat-square&logo=burpsuite&logoColor=7c3aed)
-
-<br/>
-
----
-
-<br/>
-
-## &nbsp; 📊 &nbsp; GitHub
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitesh0077&show_icons=true&hide_border=true&bg_color=faf8ff&title_color=7c3aed&icon_color=7c3aed&text_color=555&ring_color=7c3aed" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0077&layout=compact&hide_border=true&bg_color=faf8ff&title_color=7c3aed&text_color=555" height="160"/>
+<br/>
+
+```
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░                                                         ░
+ ░   N · I · T · E · S · H   S · H · A · R · M · A       ░
+ ░                                                         ░
+ ░             FULL STACK DESIGNER & DEVELOPER             ░
+ ░                                                         ░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=DESIGN.+CODE.+SHIP.+REPEAT.;I+make+things+that+LOOK+good+%26+WORK+better.;Figma+%E2%86%92+Code+%E2%86%92+Production+%E2%80%94+all+me.;Not+a+designer+who+codes.+Not+a+dev+who+designs.;BOTH.+Fully." />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0077&hide_border=true&background=faf8ff&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&dates=aaa&sideLabels=7c3aed" width="480"/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5C00?style=for-the-badge&logoColor=000)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF5C00)](https://linkedin.com/in/your-username)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF5C00)](https://instagram.com/your-username)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF5C00)](mailto:your@email.com)
 
 </div>
 
-<br/>
+---
+
+## THE PERSON
+
+I'm **Nitesh Sharma.** I design and I develop. Not one or the other — **both, completely.**
+
+Most designers hand off a Figma file and call it done.
+Most developers take that file and build something that "works."
+
+I skip the handoff. I am both sides of that table.
+
+I care about **kerning** as much as **query performance.**
+I care about **color contrast** as much as **API response time.**
+I believe the line between design and code is a lie — and I've made it my job to prove it.
 
 ---
 
-<br/>
+## THE TOOLKIT
+
+### ▸ &nbsp; DESIGN
+
+![Figma](https://img.shields.io/badge/FIGMA-FF5C00?style=flat-square&logo=figma&logoColor=000)
+![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-FF5C00?style=flat-square&logo=adobe-illustrator&logoColor=000)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-FF5C00?style=flat-square&logo=adobe-photoshop&logoColor=000)
+
+### ▸ &nbsp; FRONTEND
+
+![React](https://img.shields.io/badge/REACT-111111?style=flat-square&logo=react&logoColor=FF5C00)
+![Next.js](https://img.shields.io/badge/NEXT.JS-111111?style=flat-square&logo=next.js&logoColor=FF5C00)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111111?style=flat-square&logo=typescript&logoColor=FF5C00)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=flat-square&logo=javascript&logoColor=FF5C00)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=FF5C00)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=FF5C00)
+
+### ▸ &nbsp; BACKEND & DATA
+
+![Python](https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=FF5C00)
+![FastAPI](https://img.shields.io/badge/FASTAPI-111111?style=flat-square&logo=fastapi&logoColor=FF5C00)
+![Java](https://img.shields.io/badge/JAVA-111111?style=flat-square&logo=openjdk&logoColor=FF5C00)
+![MongoDB](https://img.shields.io/badge/MONGODB-111111?style=flat-square&logo=mongodb&logoColor=FF5C00)
+![Firebase](https://img.shields.io/badge/FIREBASE-111111?style=flat-square&logo=firebase&logoColor=FF5C00)
+
+### ▸ &nbsp; DEPLOY & MEASURE
+
+![Git](https://img.shields.io/badge/GIT-111111?style=flat-square&logo=git&logoColor=FF5C00)
+![Vercel](https://img.shields.io/badge/VERCEL-111111?style=flat-square&logo=vercel&logoColor=FF5C00)
+![Hostinger](https://img.shields.io/badge/HOSTINGER-111111?style=flat-square&logo=hostinger&logoColor=FF5C00)
+![Analytics](https://img.shields.io/badge/G.ANALYTICS-111111?style=flat-square&logo=google-analytics&logoColor=FF5C00)
+![Search Console](https://img.shields.io/badge/SEARCH_CONSOLE-111111?style=flat-square&logo=google&logoColor=FF5C00)
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-111111?style=flat-square&logo=burpsuite&logoColor=FF5C00)
+
+---
+
+## THE NUMBERS
 
 <div align="center">
 
-*"Good design is obvious. Great design is transparent."*
+<img src="https://github-readme-stats.vercel.app/api?username=nitesh0077&show_icons=true&hide_border=false&bg_color=0d0d0d&border_color=FF5C00&title_color=FF5C00&icon_color=FF5C00&text_color=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0077&layout=compact&hide_border=false&bg_color=0d0d0d&border_color=FF5C00&title_color=FF5C00&text_color=ffffff" height="160"/>
 
 <br/>
 
-**Nitesh Sharma** &nbsp;·&nbsp; Full Stack Designer & Developer &nbsp;·&nbsp; India 🇮🇳
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0077&hide_border=false&background=0d0d0d&border=FF5C00&ring=FF5C00&fire=FF5C00&currStreakLabel=FF5C00&sideNums=ffffff&currStreakNum=FF5C00&dates=888888&sideLabels=FF5C00" width="500"/>
+
+</div>
+
+---
+
+## THE TROPHIES
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nitesh0077&theme=darkhub&no-frame=false&column=7&margin-w=4"/>
+</div>
+
+---
+
+<div align="center">
+
+```
+ ┌──────────────────────────────────────────────────────────┐
+ │  "Design without code is a mockup.                       │
+ │   Code without design is a tool.                         │
+ │   I build the whole thing."                              │
+ │                                          — Nitesh Sharma │
+ └──────────────────────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitesh0077&color=FF5C00&style=flat-square&label=PROFILE+VIEWS)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,100:f8f4ff&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5C00&height=6&section=footer" width="100%"/>
 
 </div>
