@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitesh%20Sharma&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Designer%20%26%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=16&descColor=a0aec0" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Nitesh+%F0%9F%91%8B+Welcome+to+my+profile;I+design+with+empathy+%26+build+with+precision;From+Figma+wireframe+%E2%86%92+Production+%E2%80%94+all+me;%22Design+is+how+it+works%22+%E2%80%94+Steve+Jobs;Currently+crafting+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -146,6 +146,6 @@ class Nitesh:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=a0aec0&fontAlignY=65" width="100%"/>
+<img src="./footer.svg" width="100%"/>
 
 </div>
