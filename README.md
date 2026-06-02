@@ -1,115 +1,141 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:2563eb&height=160&section=header&text=Nitesh%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=72&descSize=17&descColor=93c5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=240&section=header&text=NITESH%20SHARMA&fontSize=62&fontColor=E8C547&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Designer%20%26%20Developer&descSize=16&descAlignY=68&descColor=888888" width="100%"/>
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a5f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-## Professional Summary
-
-Results-driven **Full Stack Developer & UI/UX Designer** with hands-on experience building scalable web applications and designing user-centric interfaces. Proficient across the full product lifecycle — from concept and wireframe to deployment and analytics. I bridge the gap between design and engineering, ensuring every product I deliver is both beautiful and performant.
-
-> *Available for freelance projects, collaborations, and open source contributions.*
-
----
-
-## Core Competencies
-
-| Area | Technologies |
-|------|-------------|
-| **Frontend** | JavaScript, TypeScript, React, Next.js, HTML5, CSS3 |
-| **Backend** | Python, FastAPI, Java |
-| **Databases** | MongoDB, Firebase |
-| **Design** | Figma, Adobe Illustrator, Adobe Photoshop |
-| **DevOps** | Git, Vercel, Hostinger |
-| **Analytics** | Google Analytics, Google Search Console |
-| **Security** | Burp Suite |
-
----
-
-## Technical Skills
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                                                                 │
+  │   I don't just build products.   I craft experiences.          │
+  │   I don't just write code.       I design systems.             │
+  │   I don't just make it work.     I make it feel right.         │
+  │                                                                 │
+  └─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nitesh0077&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&border_color=2563eb" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0077&layout=compact&theme=github_dark&hide_border=false&border_color=2563eb" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0077&theme=github-dark-blue&hide_border=false" width="500"/>
-
-</div>
-
 ---
-
-## Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh0077&theme=github-compact&hide_border=false&area=true&color=2563eb&line=2563eb&point=ffffff" width="100%"/>
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nitesh0077&theme=flat&no-frame=false&column=7&margin-w=4"/>
-</div>
-
----
-
-## Let's Work Together
-
-I am open to discussing **freelance projects**, **full-time opportunities**, and **technical collaborations**. Feel free to reach out through any of the channels below.
-
-<div align="center">
-
-| Channel | Link |
-|---------|------|
-| 🌐 Portfolio | [your-portfolio.com](https://your-portfolio.com) |
-| 💼 LinkedIn | [linkedin.com/in/your-username](https://linkedin.com/in/your-username) |
-| 📸 Instagram | [instagram.com/your-username](https://instagram.com/your-username) |
-| ✉️ Email | [your@email.com](mailto:your@email.com) |
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nitesh0077&color=2563eb&style=flat-square&label=Profile+Views)
+## ◈ &nbsp; The Philosophy
+
+> Design is the silent ambassador of your brand. Code is what keeps its promise.
+
+I'm **Nitesh Sharma** — a Full Stack Designer & Developer who lives between two worlds most people treat as separate. I sketch wireframes and write APIs. I craft pixel-perfect interfaces and architect databases. I am the bridge.
+
+Based in **India 🇮🇳** &nbsp;·&nbsp; Available for **freelance & collabs** &nbsp;·&nbsp; Obsessed with **craft & detail**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:2563eb&height=80&section=footer" width="100%"/>
+---
+
+<br/>
+
+## ◈ &nbsp; Design Arsenal
+
+<div align="center">
+
+```
+  ╔══════════════════╦══════════════════╦══════════════════╗
+  ║   THINK          ║   CREATE         ║   SHIP           ║
+  ╠══════════════════╬══════════════════╬══════════════════╣
+  ║  User Research   ║  Figma           ║  React / Next.js ║
+  ║  Wireframing     ║  Illustrator     ║  FastAPI         ║
+  ║  Design Systems  ║  Photoshop       ║  MongoDB         ║
+  ║  Prototyping     ║  Typography      ║  Firebase        ║
+  ║  UX Writing      ║  Color Theory    ║  Vercel          ║
+  ╚══════════════════╩══════════════════╩══════════════════╝
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ◈ &nbsp; Tech Stack
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-E8C547?style=flat-square&logo=figma&logoColor=0a0a0a)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-E8C547?style=flat-square&logo=adobe-illustrator&logoColor=0a0a0a)
+![Photoshop](https://img.shields.io/badge/Photoshop-E8C547?style=flat-square&logo=adobe-photoshop&logoColor=0a0a0a)
+![React](https://img.shields.io/badge/React-E8C547?style=flat-square&logo=react&logoColor=0a0a0a)
+![Next.js](https://img.shields.io/badge/Next.js-E8C547?style=flat-square&logo=next.js&logoColor=0a0a0a)
+![TypeScript](https://img.shields.io/badge/TypeScript-E8C547?style=flat-square&logo=typescript&logoColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8C547?style=flat-square&logo=javascript&logoColor=0a0a0a)
+![Python](https://img.shields.io/badge/Python-E8C547?style=flat-square&logo=python&logoColor=0a0a0a)
+![FastAPI](https://img.shields.io/badge/FastAPI-E8C547?style=flat-square&logo=fastapi&logoColor=0a0a0a)
+![MongoDB](https://img.shields.io/badge/MongoDB-E8C547?style=flat-square&logo=mongodb&logoColor=0a0a0a)
+![Firebase](https://img.shields.io/badge/Firebase-E8C547?style=flat-square&logo=firebase&logoColor=0a0a0a)
+![Git](https://img.shields.io/badge/Git-E8C547?style=flat-square&logo=git&logoColor=0a0a0a)
+![Vercel](https://img.shields.io/badge/Vercel-E8C547?style=flat-square&logo=vercel&logoColor=0a0a0a)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-E8C547?style=flat-square&logo=burpsuite&logoColor=0a0a0a)
+![Google Analytics](https://img.shields.io/badge/Analytics-E8C547?style=flat-square&logo=google-analytics&logoColor=0a0a0a)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ◈ &nbsp; GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitesh0077&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=E8C547&icon_color=E8C547&text_color=888888&ring_color=E8C547" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh0077&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=E8C547&text_color=888888" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh0077&hide_border=true&background=0a0a0a&ring=E8C547&fire=E8C547&currStreakLabel=E8C547&sideNums=888888&currStreakNum=E8C547&dates=555555&sideLabels=888888" width="480"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ◈ &nbsp; Find Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/——————&nbsp;&nbsp;PORTFOLIO&nbsp;&nbsp;——————-0a0a0a?style=for-the-badge&logoColor=E8C547)](https://your-portfolio.com)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E8C547)](https://linkedin.com/in/your-username)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=E8C547)](https://instagram.com/your-username)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=E8C547)](mailto:your@email.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>Designed & Coded with intent &nbsp;·&nbsp; Nitesh Sharma &nbsp;·&nbsp; India</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=4&section=footer" width="100%"/>
 
 </div>
