@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://itsnitesh.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-sharma-86b520340)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_nitesh0077_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0077niteshsharma@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niteshsharma.workmail@gmail.com)
 
 </div>
 
@@ -26,7 +26,7 @@ nitesh = {
     "role":       ["Full Stack Developer", "UI/UX Designer"],
     "location":   "India 🇮🇳",
     "building":   "Beautiful products that users actually love",
-    "reach_me":   "0077niteshsharma@email.com"
+    "reach_me":   "niteshsharma.workmail@email.com"
 }
 ```
 
